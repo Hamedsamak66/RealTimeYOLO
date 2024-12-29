@@ -1,6 +1,6 @@
-YOLOVision
+RealTimeYOLO
 
-YOLOVision is a real-time object detection project using the YOLO model. This project can identify and track multiple objects simultaneously with high accuracy.
+RealTimeYOLO is a real-time object detection project using the YOLO model. This project can identify and track multiple objects simultaneously with high accuracy.
 Features
 
     Fast and Accurate Detection: Utilizes the YOLO model for real-time object detection.
@@ -31,8 +31,8 @@ Installation and Setup
             
 
 bash
-git clone https://github.com/username/YoloVision.git
-cd YOLOVision
+git clone https://github.com/Hamedsamak66/RealTimeYOLO.git
+cd RealTimeYOLO
 
 Create a virtual environment and install dependencies:
 
@@ -57,9 +57,7 @@ python detect.py --input path_to_image_or_video --output path_to_save_results
 Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
-License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
 Contact
 
-If you have any questions or need further assistance, feel free to contact me at [your contact information here].
+If you have any questions or need further assistance, feel free to contact me at samak.h@outlook.com.
